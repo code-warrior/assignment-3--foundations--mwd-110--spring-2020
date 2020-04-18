@@ -3,6 +3,12 @@
 * **Do not start this project until you have read these instructions carefully.**  
 * **Read these instructions repeatedly until you understand, then begin your project. If something is not clear, ask.**  
 
+## ❖・Before You Begin・❖
+1. Log in to GitHub.
+2. Fork this repo(sitory). See [this video](http://code-warrior.github.io/tutorials/git/github/forking-and-cloning-at-the-github-web-site/) on how to carry out this step and step `3`.
+3. Clone your fork, using either the web site or the GitHub Desktop client.
+4. Checkout your personalized branch, the one with your name and GitHub user handle.
+
 ## ❖・Introduction・❖
 This assignment is designed to initiate you into the world of creating web pages using advanced concepts in CSS, employing what you’ve learned thus far and adding your own design sense.
 
@@ -11,12 +17,6 @@ Create and style a one-page web site using the pre-defined content from either o
 Once you’ve settled on a text file, populate `index.html` with that file’s content matched with your careful and semantic choice of HTML syntax. (**Note**: *You may __not__ modify the content in any of the `.txt` files.*)
 
 With the content marked up properly, add styling to the page using CSS. There’s no restriction on what you may do design-wise.
-
-## ❖・Before You Begin・❖
-1. Log in to GitHub.
-2. Fork this repo(sitory). See [this video](http://code-warrior.github.io/tutorials/git/github/forking-and-cloning-at-the-github-web-site/) on how to carry out this step and step `3`.
-3. Clone your fork, using either the web site or the GitHub Desktop client.
-4. Checkout your personalized branch, the one with your name and GitHub user handle.
 
 ## ❖・File List・❖
 01. `README.md`
