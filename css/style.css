@@ -1,0 +1,14 @@
+body {
+  font-size: 1.2rem;
+  font-family: 'Changa', sans-serif;
+  padding: 20px;
+  position: relative;
+}
+
+header {
+  font-size: 2rem;
+  text-align: center;
+}
+p{
+  padding: 5px;
+}
