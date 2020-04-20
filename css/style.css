@@ -58,6 +58,7 @@ main {
   background-color: #D2D3D8;
   color: #000000;
   text-align: center;
+  margin-top: 15px;
 }
 
 ol {
@@ -74,4 +75,5 @@ p {
 section {
   background-color: #FFE0E0;
   color: inherit;
+  margin-top: 15px;
 }
