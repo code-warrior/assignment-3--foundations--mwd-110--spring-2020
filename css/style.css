@@ -10,6 +10,7 @@ header {
   background-color: #272222;
   font-family: Montserrat, sans-serif;
   color: #eadbdb;
+  border: 5px inset #db6161;
   text-align: center;
   margin: auto;
   width: 1510px;
@@ -56,6 +57,7 @@ ul {
 main {
   background-color: #d17c7c;
   color: #000;
+  border: 10px outset #6a5555;
   text-align: center;
   margin-top: 15px;
 }
