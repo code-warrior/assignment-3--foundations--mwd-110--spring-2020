@@ -91,3 +91,8 @@ section {
   border: 8px inset #cd5e5e;
   margin: 15px;
 }
+
+a {
+  background-color: inherit;
+  color: inherit;
+}
