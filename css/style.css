@@ -23,8 +23,6 @@ img {
   padding: 88px 400px;
 }
 
-#ul {
-  float: left;
 #flex {
   display: flex;
   flex-direction: column;
