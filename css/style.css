@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217));
+}
+header {
+  font-family: 'Francois One', sans-serif;
+  font-size: 100px;
+  text-align: center;
+}
