@@ -27,6 +27,16 @@ img {
   flex-direction: column;
 }
 
+#members {
+  background-color: #d58989;
+  color: #000;
+  border: 8px inset #844a49;
+  margin: 12px;
+  width: 280px;
+  height: 160px;
+  align-self: center;
+}
+
 h2 {
   font-family: Montserrat, sans-serif;
   font-size: 30px;
