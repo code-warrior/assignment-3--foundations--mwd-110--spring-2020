@@ -19,7 +19,8 @@ header {
 }
 
 img {
-  padding: 88px 400px;
+  padding-top: 88px;
+  margin-left: 412px;
 }
 
 #flex {
