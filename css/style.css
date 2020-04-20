@@ -1,16 +1,15 @@
 body {
-  background-color: #E4E4E8;
-  color: inherit;
+  background-color: #99999e;
+  color: #000;
   margin: auto;
   line-height: normal;
 }
 
 header {
   position: fixed;
-  background-color: #48484C;
+  background-color: #272222;
   font-family: Montserrat, sans-serif;
-  color: #FFFFFF;
-  border: 5px inset #FFE0E0;
+  color: #eadbdb;
   text-align: center;
   margin: auto;
   width: 1510px;
@@ -55,8 +54,8 @@ ul {
 }
 
 main {
-  background-color: #D2D3D8;
-  color: #000000;
+  background-color: #d17c7c;
+  color: #000;
   text-align: center;
   margin-top: 15px;
 }
@@ -73,7 +72,8 @@ p {
 }
 
 section {
-  background-color: #FFE0E0;
-  color: inherit;
-  margin-top: 15px;
+  background-color: #d34444;
+  color: #000;
+  border: 8px inset #cd5e5e;
+  margin: 15px;
 }
