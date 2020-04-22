@@ -2,7 +2,42 @@ body {
   background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217));
 }
 header {
+background: url('../img/picture-a.JPG');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-blend-mode: lighten;
+width: auto;
+margin: auto;
+padding: 50px;
+}
+h1{
+  background-color: inherit;
+  color: rgba(255, 255, 255);
   font-family: 'Francois One', sans-serif;
   font-size: 100px;
   text-align: center;
+}
+h2{
+  background-color: blue;
+  color: black;
+  display: flex;
+  width: 350px;
+  text-align: left;
+}
+section {
+  font-family: 'Francois One', sans-serif;
+  font-size: 50px;
+}
+#quote {
+  background: url('../img/picture-b.JPG') scroll 0 0/ cover;
+  opacity: .45;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  text-align: center;
+  font-size: 30px;
+  
 }
