@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217), rgb(245, 241, 212));
+  background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217), rgb(250, 246, 217));
 }
 
 header {
@@ -21,25 +21,39 @@ h1 {
 }
 p {
   font-size: 20px;
+  line-height: 1.5
 }
+
 #quote {
   background: url('../img/picture-a.JPG') scroll 0 0/ cover;
-  opacity: .45;
   padding-top: 100px;
   padding-bottom: 100px;
   margin-left: 50px;
   margin-right: 50px;
   display: flex;
   text-align: center;
-  font-size: 30px; 
+  font-size: 30px;
+  color: white;
+}
+.article:nth-of-type(1) {
+  margin: 20px;
+  padding: 30px;
+  background-color: inherit;
+}
+.article:nth-of-type(2) > .article--mask {
+  margin: 20px;
+  padding: 30px;
+  padding-bottom: 10px;
+  background-color: inherit;
 }
 .article:nth-of-type(3) {
-  background: url('../img/picture-c.JPG') scroll;
+  background: url('../img/picture-c.JPG') fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: .75;
   }
-  .article:nth-of-type(3) > .article--mask {
+.article:nth-of-type(3) > .article--mask {
     margin: 20px;
-    padding: 30px; 
+    padding: 30px;
+    background-color: rgba(250, 246, 217, .75);
+    color: black;
   }
