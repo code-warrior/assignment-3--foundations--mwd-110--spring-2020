@@ -1,9 +1,9 @@
 body {
-  background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217));
+  background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217), rgb(245, 241, 212));
 }
 
 header {
-background: url('../img/picture-a.JPG');
+background: url('../img/picture-b.JPG');
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -19,9 +19,11 @@ h1 {
   font-size: 100px;
   text-align: center;
 }
-
+p {
+  font-size: 20px;
+}
 #quote {
-  background: url('../img/picture-b.JPG') scroll 0 0/ cover;
+  background: url('../img/picture-a.JPG') scroll 0 0/ cover;
   opacity: .45;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -29,5 +31,15 @@ h1 {
   margin-right: 50px;
   display: flex;
   text-align: center;
-  font-size: 30px;
+  font-size: 30px; 
 }
+.article:nth-of-type(3) {
+  background: url('../img/picture-c.JPG') scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: .75;
+  }
+  .article:nth-of-type(3) > .article--mask {
+    margin: 20px;
+    padding: 30px; 
+  }
