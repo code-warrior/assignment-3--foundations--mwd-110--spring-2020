@@ -13,11 +13,11 @@ main{
 #album{
   display: block;
   margin-left: auto;
-  padding: 20px;
+  padding: 30px;
   height: 500px;
   width: 500px;
 }
-#title {
+h1{
   color: black;
   font-size: 2.5rem;
   text-align: center;
@@ -30,6 +30,7 @@ main{
   color: green;
   line-height: 1.4;
   padding: 10px;
+  font-weight: bold;
 }
 a:link {
   background-color: lightgray;
@@ -45,7 +46,7 @@ a:visited {
 
 a:hover {
   background-color: lightgray;
-  color: yellow;
+  color: rgb(245, 227, 66);
 }
 a:active{
   background-color: lightgray;
@@ -64,9 +65,24 @@ p{
   line-height: 1.4;
   font-family: 'Allerta Stencil', sans-serif;
 }
-#band{
+#img-2{
   display: block;
-  padding: 20px;
+  padding: 8px;
   width: 500px;
-  vertical-align: middle;
+  float: right;
+  margin: 10px;
+}
+#img-3{
+  display: block;
+  padding: 8px;
+  width: 500px;
+  float: left;
+  margin: 10px;
+}
+#img-4{
+  display: block;
+  padding: 8px;
+  width: 500px;
+  float: left;
+  margin: 10px;
 }
