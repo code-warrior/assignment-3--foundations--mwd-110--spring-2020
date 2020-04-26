@@ -1,13 +1,17 @@
-
-img {
+img { 
+   left: 25%; 
+   top: 75px; 
+   position: relative;
    border-style: Solid; 
    border-color: var(--secondary-color); 
    border-width: 8px; 
 }
 h1 {
-   position: relative;
-   text-align: center; 
+   display: block;
+   margin-left: auto; 
+   margin-right: auto;
    text-shadow: ;
+   text-align: center;
    width: 650px;
    border-left: dashed; 
    border-right: dashed; 
@@ -17,6 +21,7 @@ h1 {
    border-bottom-width: 6px;
    border-top-width: 6px;
    background-color: var(--secondary-color);
+   background-position: center;  
    text-shadow: -1px 1px 4px ; 
    font-family: 'Montserrat', sans-serif;
    font-size: 29px; 
@@ -24,7 +29,9 @@ h1 {
    padding: 4px; 
 }
 h2{
-   text-align: center; 
+   position: relative;
+   top: -235px; 
+   left: 460px; 
    font-family: 'Montserrat', sans-serif;
    width: 400px; 
    border-left-style: solid; 
@@ -32,15 +39,22 @@ h2{
    border-width: 5px; 
    border-radius: 5px; 
    }
+
 #Members {
       font-weight: 300; 
       
    }
+
 body {
+   position: relative; 
    background-image: linear-gradient( 115deg, var(--primary-color), var(--gradient-color)); 
 }
 
 ul {
+   font-family: 'Open Sans', sans-serif;
+   position: relative;
+   left: 50%; 
+   top: -250px; 
    list-style: none; 
    background-color: var(--secondary-color);
    background-position: center; 
@@ -62,6 +76,55 @@ li:nth-child(even) {
    border-width: 2px;
 }
 
+main {
+   position: relative;
+   border-top-style: solid; 
+   border-bottom-style: solid; 
+   border-radius: 8px; 
+   border-width: 18px; 
+   top: -200px; 
+   background-color: var(--secondary-color);
+
+   
+}
+
 p {
-   width: 50%; 
+   display: block;
+   margin-left: auto; 
+   margin-right: auto;
+   font-family: 'Open Sans', sans-serif;
+   padding-left: 5px; 
+   width: 700px; 
+}
+
+div:nth-last-of-type(odd) {
+   display: block;
+   margin-left: auto; 
+   margin-right: auto;
+   background-color: black; 
+   color: white; 
+   width: 750px; 
+   padding: 1px; 
+   border-left-style: dashed; 
+   border-right-style: dashed; 
+   border-color: white; 
+   border-width: 15px; 
+} 
+div:nth-last-of-type(even) {
+   display: block;
+   margin-left: auto; 
+   margin-right: auto;
+   width: 750px; 
+   border-left-style: dashed; 
+   border-right-style: dashed; 
+   border-color: black; 
+   border-width: 15px; 
+}
+
+h3 {
+   font-family: 'Montserrat', sans-serif;
+   position: relative;
+   top: -200px; 
+   
+   
 }
