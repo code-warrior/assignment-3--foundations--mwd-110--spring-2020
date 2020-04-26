@@ -1,7 +1,7 @@
 body {
   color: red;
   background-color: lightgray;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-family: 'Changa', sans-serif;
   padding: 20px;
   position: relative;
@@ -31,6 +31,7 @@ h1{
   line-height: 1.4;
   padding: 10px;
   font-weight: bold;
+  font-size: 1.5rem;
 }
 a:link {
   background-color: lightgray;
@@ -55,14 +56,11 @@ a:active{
 h2{
   color: red;
   background-color: lightgray;
-  font-size: 1.5rem;
-}
-h3{
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 p{
   padding: 10px;
-  line-height: 1.4;
+  line-height: 1.3;
   font-family: 'Allerta Stencil', sans-serif;
 }
 #img-2{
