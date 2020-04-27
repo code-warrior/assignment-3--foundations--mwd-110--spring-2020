@@ -1,6 +1,6 @@
 img { 
    left: 325px; 
-   top: 75px; 
+   top: 70px; 
    position: relative;
    border-style: Solid; 
    border-width: 8px; 
@@ -23,11 +23,12 @@ h1 {
    font-family: 'Montserrat', sans-serif;
    font-size: 29px; 
    padding: 4px; 
+   font-weight: 900;
 }
 h2{
    position: relative;
-   top: -212px; 
-   left: 460px; 
+   top: -315px; 
+   left: 250px; 
    font-family: 'Montserrat', sans-serif;
    font-size: 28px; 
    width: 400px; 
@@ -35,10 +36,11 @@ h2{
    border-right-style: solid; 
    border-width: 5px; 
    border-radius: 5px; 
+   text-align: center;
    }
-#Members {
-      font-weight: 500; 
-      
+.Boldness {
+      font-weight: 700; 
+      text-align: left; 
    }
 body {
    position: relative; 
@@ -60,6 +62,7 @@ ul {
    border-radius: 10px; 
    border-style: solid; 
    border-color: black; 
+   line-height: 20px;
    
 }
 li:nth-child(even) {
@@ -76,11 +79,11 @@ main {
    border-bottom-style: solid; 
    border-radius: 8px; 
    border-width: 18px; 
-   top: -200px; 
+   top: -280px; 
    background-color: var(--secondary-color);
 }
 p {
-   text-indent: 12px; 
+   text-indent: 36px; 
    display: block;
    margin-left: auto; 
    margin-right: auto;
@@ -88,6 +91,7 @@ p {
    padding-left: 5px; 
    width: 700px; 
    line-height: normal;
+   font-size: 20px; 
 }
 div:nth-last-of-type(odd) {
    display: block;
@@ -112,6 +116,8 @@ div:nth-last-of-type(even) {
    border-right-style: dashed; 
    border-color: black; 
    border-width: 15px; 
+   padding-top: 12px; 
+   padding-bottom: 12px; 
 }
 h3 {
    font-family: 'Montserrat', sans-serif;
