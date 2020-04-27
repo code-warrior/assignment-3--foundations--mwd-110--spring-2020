@@ -56,7 +56,8 @@ a:active{
 h2{
   color: red;
   background-color: lightgray;
-  font-size: 1.6rem;
+  font-size: 1.7rem;
+  padding-top: 10px;
 }
 p{
   padding: 10px;
