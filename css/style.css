@@ -1,20 +1,19 @@
 header {
    font-family: 'Roboto Slab', serif;
-   color: hsl(360, 100%, 100%);
    font-size: 200%;
    margin: 5%;
 }
 
 body {
-   background: transparent url('../img/dysnomia-album-cover.jpg') no-repeat fixed 0 0 / cover;
+   background: transparent url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
    height: 1500px;
 }
 
 #review-content {
+   background-color: rgba(255, 206, 126, 0.5);
    margin: 2% 5%;
    line-height: 25px;
    font-family: 'Roboto Mono', monospace;
-   color: hsl(360, 100%, 100%);
 }
 
 #name-of-artist {
