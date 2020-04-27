@@ -9,11 +9,16 @@ body {
    height: 1500px;
 }
 
-#review-content {
+.review-content {
    background-color: rgba(255, 255, 255, .8);
    margin: 2% 5%;
    line-height: 25px;
    font-family: 'Roboto Mono', monospace;
+}
+
+.highlight {
+   background-color: #ffce7e;
+   padding: 5px;
 }
 
 #name-of-artist {
@@ -23,8 +28,4 @@ body {
    font-family: 'Roboto Slab', serif;
    font-size: 75%;
    font-weight: 100;
-}
-
-.highlight {
-   background-color: #ffce7e;
 }
