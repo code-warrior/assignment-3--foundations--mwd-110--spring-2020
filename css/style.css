@@ -11,6 +11,7 @@ body {
 #review-content {
    margin: 2% 5%;
    line-height: 25px;
+   font-family: 'Roboto Mono', monospace;
 }
 
 #name-of-artist {
