@@ -1,0 +1,22 @@
+header {
+   font-size: 150%;
+   margin: 5%;
+}
+
+body {
+   height: 1500px;
+}
+
+p {
+   font-size: 75%;
+   margin: 2% 5%;
+   line-height: 25px;
+}
+
+#name-of-artist {
+   position: relative;
+   right: 15px;
+   margin: 1em;
+   
+   
+}
