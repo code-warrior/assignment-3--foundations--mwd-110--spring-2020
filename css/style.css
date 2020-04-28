@@ -18,16 +18,20 @@ ol li {
   width: 400px;
   padding: 3px;
   font-size: 18px;
-  padding-top: 10px;
+  padding-top: 1px;
   padding-right: 100px;
   padding-bottom: 10px;
   padding-left: 100px;
 }
 img {
+  top: 0;
+  width: 400px;
   max-width: 100%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+background-color: rgba(100%, 100%, 100%, 50%);
+border: solid 2px;
+}
+body {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:center;
 }
