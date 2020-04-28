@@ -4,4 +4,6 @@ h1 {
   padding: 12px;
   background-color: rgba(100%, 100%, 100%, 50%);
   font-family: 'Special Elite', cursive;
+  font-size: 35px;
+  font-weight: bold;
 }
