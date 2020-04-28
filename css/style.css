@@ -12,18 +12,22 @@ header {
 h2 {
   font-size: 25px;
 }
-ol li {
+ol {
+   border: solid 2px;
    background-color: rgba(100%, 100%, 100%, 50%);
    font-family: 'Barlow Condensed';
   text-align: left;
   font-weight: bold;
   width: 400px;
   font-size: 18px;
-  margin: auto;
+  margin:10px;
   padding-top: 10px;
   padding-right: 50px;
   padding-bottom: 10px;
   padding-left: 100px;
+}
+ol li{
+   margin:10px;
 }
 img {
    margin-top: 50px;
@@ -33,6 +37,7 @@ img {
   max-width: 100%;
    background-color: rgba(100%, 100%, 100%, 50%);
    border: solid 5px;
+   border-color: red;
 }
 body {
    display: flex;
@@ -41,10 +46,14 @@ body {
    background-color: rgba(0%, 0%, 0%, 50%);
 }
 p {
-   margin:auto;
+
+   margin:5px;
    align-content: space-between;
    width:auto;
-   height:auto;;
-   padding:30px;
-   font-size: 30px;
+   height:auto;
+   padding-top: 20px;
+   padding-right: 50px;
+   padding-bottom: 20px;
+   padding-left: 50px;
+   font-size: 20px;
 }
