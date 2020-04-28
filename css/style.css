@@ -13,10 +13,6 @@ body {
    background: transparent url('../img/album-cover.jpg') fixed no-repeat 0 0 / cover;
 }
 
-.hero:nth-of-type(2) {
-   
-}
-
 ol {
    position: relative;
    left: 60px;
