@@ -4,8 +4,10 @@ body {
 }
 
 h1 {
-
-
+  box-sizing: border-box;
+  width: 200;
+  height: 200;
+  float: left;
 }
 
 h2 {
@@ -13,8 +15,15 @@ h2 {
 
 }
 
-h3 {
+main {
   position: absolute;
-  top:  0;
-  left: 0;
+  top: 200px;
+  left: 20%;
+  right: 0;
+  width: 222;
+}
+
+img {
+  border: 5px solid #808080;
+
 }
