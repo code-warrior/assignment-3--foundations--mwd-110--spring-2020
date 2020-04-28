@@ -17,6 +17,7 @@ h1 {
   left: 33%;
   right: 0;
   width: 750px;
+  height: 753px;
   border: 5px solid #808080;
   background-color: #505050;
 }
@@ -68,6 +69,11 @@ img {
 }
 
 footer {
-
-
+  position: absolute;
+  text-align: center;
+  top: 1005px;
+  left: 20%;
+  height: 75px;
+  width: 1010px;
+  background-color: #505050;
 }
