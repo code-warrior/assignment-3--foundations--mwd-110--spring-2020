@@ -9,7 +9,7 @@ body {
   color: white;
 }
 
-h1 {
+div1 {
   text-align: left;
   font-size: 134%;
   position: absolute;
@@ -22,7 +22,7 @@ h1 {
   background-color: #505050;
 }
 
-h2 {
+div2 {
   text-align: center;
   font-size: 120%;
   position: absolute;
@@ -34,7 +34,7 @@ h2 {
   background-color: #505050;
 }
 
-h3 {
+div3 {
   text-align: center;
   font-size: 120%;
   position: absolute;
@@ -46,7 +46,7 @@ h3 {
   background-color: #505050;
 }
 
-h4 {
+div4 {
   position: absolute;
   top: 450px;
   left: 20%;
@@ -56,7 +56,7 @@ h4 {
   background-color: #505050;
 }
 
-main {
+div5 {
   position: absolute;
   top: 210px;
   left: 20%;
