@@ -1,12 +1,10 @@
 header {
-  position: static;
   text-align: center;
   padding: 12px;
-  background-color: rgba(100%, 100%, 100%, 50%);
+  margin: 100px;
   font-family: 'Special Elite', cursive;
-  font-size: 35px;
+  font-size: 80px;
   font-weight: bold;
-  border: solid 2px;
 }
 
 h2 {
@@ -46,14 +44,18 @@ body {
    background-color: rgba(0%, 0%, 0%, 50%);
 }
 p {
-
+   text-indent: 30px;
    margin:5px;
-   align-content: space-between;
+   align-content: center;
    width:auto;
    height:auto;
    padding-top: 20px;
-   padding-right: 50px;
+   padding-right: 250px;
    padding-bottom: 20px;
-   padding-left: 50px;
+   padding-left: 250px;
    font-size: 20px;
+}
+em  {
+   font-size: 32px;
+   font-style: italic;
 }
