@@ -5,8 +5,16 @@ header {
 }
 
 body {
-   background: transparent url('../img/hero.jpg') no-repeat fixed 0 0 / cover;
-   height: 1500px;
+   background: transparent url('../img/hero.jpg') fixed no-repeat 0 0 / cover;
+   height: 2000px;
+}
+
+.hero:nth-of-type(1) {
+   background: transparent url('../img/album-cover.jpg') fixed no-repeat 0 0 / cover;
+}
+
+.hero:nth-of-type(2) {
+   
 }
 
 ol {
