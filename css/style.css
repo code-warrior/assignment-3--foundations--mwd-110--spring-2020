@@ -24,6 +24,7 @@ ol li {
 }
 img {
   top: 0;
+  margin-right: 250px;
   width: 400px;
   height:400px;
   max-width: 100%;
@@ -36,10 +37,10 @@ body {
    justify-content:space-around;
 }
 p {
+   margin:auto;
    align-content: space-between;
-   width:400px;
-   height:500px;
-   padding:10px;
-   border: solid 5px;
-   font-size: 20px;
+   width:auto;
+   height:auto;;
+   padding:30px;
+   font-size: 30px;
 }
