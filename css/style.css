@@ -14,7 +14,12 @@ h2 {
 ol li {
    font-family: 'Barlow Condensed';
   text-align: left;
-  width: 200px;
-  padding: 6px;
-
+  font-weight: bold;
+  width: 400px;
+  padding: 3px;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-right: 100px;
+  padding-bottom: 10px;
+  padding-left: 100px;
 }
