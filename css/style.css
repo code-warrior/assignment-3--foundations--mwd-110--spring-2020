@@ -1,4 +1,7 @@
 h1 {
   position: static;
   text-align: center;
+  padding: 12px;
+  background-color: rgba(100%, 100%, 100%, 50%);
+  font-family: 'Special Elite', cursive;
 }
