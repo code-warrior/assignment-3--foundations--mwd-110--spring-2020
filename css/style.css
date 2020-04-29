@@ -1,7 +1,7 @@
 :root {
-   --tan: color: rgb(222, 164, 113);
-   --red: color: rgb(176, 16, 16);
-   --eggshell: color: rgb(255, 242, 242);
+   --tan: rgb(222, 164, 113);
+   --red: rgb(176, 16, 16);
+   --eggshell: rgb(255, 242, 242);
 }
 h1 {
    color: var(--red);
