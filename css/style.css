@@ -5,5 +5,7 @@
    --eggshell: rgb(255, 242, 242);
 }
 h1 {
+   font-size: 22px;
+   font-family: 'Rock Salt', cursive;
    color: var(--red);
 }
