@@ -27,6 +27,7 @@ footer{
    margin-top: 20px;
    margin-bottom: 10px;
    font-size: 16px;
+   align-self: flex-end;
 }
 
    color: rgb(255, 242, 242);
