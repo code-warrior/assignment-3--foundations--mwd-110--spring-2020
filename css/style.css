@@ -2,6 +2,8 @@
 
 :root {
    background-color: rgb(222, 164, 113);
+   background:
+      linear-gradient(to top, rgba(102, 89, 87, .9), rgba(191, 142, 105,.99)) no-repeat left, url('../img/static-noise.jpg');
 }
 
 h1 {
