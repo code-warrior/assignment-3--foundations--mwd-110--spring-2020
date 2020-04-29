@@ -5,6 +5,7 @@ color: white;
 border: 2px dashed yellow;
  border-radius: 20px; }
  div {
+    text-align:center;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
