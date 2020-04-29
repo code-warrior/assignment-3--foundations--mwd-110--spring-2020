@@ -49,6 +49,12 @@ img {
    background: transparent url('../img/hero-two.jpg') fixed no-repeat 0 0 / cover;
 }
 
+.hero:nth-of-type(2) {
+   position: relative;
+   left: 20px;
+   background: transparent url('../img/hero-two.jpg') fixed no-repeat 0 0 / cover;
+}
+
 #name-of-artist {
    position: relative;
    right: 35px;
