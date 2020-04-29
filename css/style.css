@@ -16,6 +16,9 @@ body {
    font-size: 18px;
    font-family: 'Pangolin', cursive;
    line-height: 1.5;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
    margin-left: 10%;
    margin-right: 10%;
 }
