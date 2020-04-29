@@ -6,7 +6,7 @@ header {
 
 body {
    background: transparent url('../img/hero.jpg') fixed no-repeat 0 0 / cover;
-   height: 2000px;
+   height: 2300px;
 }
 
 ol {
@@ -26,6 +26,8 @@ img {
 }
 
 .review-content {
+   position: relative;
+   right: 12px;
    background-color: rgba(255, 255, 255, .95);
    margin: 2% 5%;
    padding: 10px;
