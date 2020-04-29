@@ -52,6 +52,8 @@ p{
 }
 
 ol{
+   justify-content: center;
+   justify-content: space-around;
 }
 }
 
