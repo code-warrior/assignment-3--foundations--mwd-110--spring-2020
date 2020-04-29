@@ -9,6 +9,9 @@ border: 2px dashed yellow;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
+  width: 320px;
+  border: 5px solid grey;
+  margin: 0;
 }
 i {font-style: italic;}
 
