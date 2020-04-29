@@ -39,6 +39,8 @@ img {
 }
 
 .hero:nth-of-type(1) {
+   position: relative;
+   left: 20px;
    background: transparent url('../img/hero-2.jpg') fixed no-repeat 0 0 / cover;
 }
 
