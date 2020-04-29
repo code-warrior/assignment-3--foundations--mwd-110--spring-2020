@@ -9,6 +9,10 @@ body {
    height: 2300px;
 }
 
+footer {
+   color: #ff5733;
+}
+
 ol {
    position: relative;
    left: 60px;
