@@ -16,7 +16,7 @@ border: 2px dashed yellow;
 i {font-style: italic;}
 
 #musichas {
-  color: red;
+  color:  red;
   text-align: center;
 }
 p {
@@ -26,3 +26,5 @@ p {
   margin-left: 100px;
 }
 #tracklist {text-align:center;}
+header {  color: red;
+font-style: italic;}
