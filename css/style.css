@@ -5,14 +5,13 @@ color: white;
 border: 2px dashed yellow;
  border-radius: 20px; }
  div {
-    text-align:center;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 30px;
   width: 320px;
   border: 5px solid green;
-  margin: 0;
+  margin: auto;
 }
 i {font-style: italic;}
 
