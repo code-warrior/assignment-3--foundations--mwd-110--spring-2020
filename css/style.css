@@ -9,7 +9,14 @@ h1 {
    font-size: 65px;
    font-family: 'Nanum Pen Script', cursive;
    margin-top: 20px;
+}
+
+h2{
+   font-size: 20px;
+   font-family: 'Rock Salt', cursive;
    margin-bottom: 20px;
+   margin-top: 20px;
+}
 }
 
 body {
