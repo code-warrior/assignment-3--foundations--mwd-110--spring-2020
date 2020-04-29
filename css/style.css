@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Rock+Salt&display=swap');
 
 :root {
-   --tan: rgb(222, 164, 113);
-   --red: rgb(176, 16, 16);
-   --eggshell: rgb(255, 242, 242);
+   background-color: rgb(222, 164, 113);
 }
+
 h1 {
    font-size: 22px;
    font-family: 'Rock Salt', cursive;
-   color: var(--red);
-}
+   color: rgb(255, 242, 242);
