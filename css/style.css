@@ -1,0 +1,14 @@
+body {
+   background-color: white;
+}
+
+#ramones {
+   font-family: 'Anton', sans-serif;
+   font-size: 72px;
+}
+
+#bandmates {
+   font-family: 'Roboto', sans-serif;
+   font-size: 18px;
+   font-style: italic;
+}
