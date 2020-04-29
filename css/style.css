@@ -10,3 +10,5 @@ border: 2px dashed yellow;
   padding-bottom: 50px;
   padding-left: 80px;
 }
+i {font-style: italic;}
+b{font-style: bold}
