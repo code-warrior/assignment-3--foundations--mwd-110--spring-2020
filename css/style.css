@@ -35,6 +35,12 @@ img {
    font-family: 'Roboto Mono', monospace;
 }
 
+.credits {
+   font-family: 'Roboto Mono', monospace;
+   font-weight: 100;
+   color: white;
+}
+
 .highlight {
    background-color: #ffce7e;
    padding: 5px;
@@ -42,6 +48,14 @@ img {
 
 .highlighttwo {
    background-color: #daf7a6;
+   padding: 5px;
+}
+
+.highlightthree {
+   position: relative;
+   left: 25px;
+   bottom: 15px;
+   background-color: #900c3f;
    padding: 5px;
 }
 
