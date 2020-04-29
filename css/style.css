@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Nanum+Pen+Script&family=Rock+Salt&display=swap');
 
+span{
+   font-style: italic;
+}
+
 :root {
    background-color: rgb(222, 164, 113);
    background:
