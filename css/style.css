@@ -1,0 +1,47 @@
+/* Specificity: 0, 0, 1 */
+span {
+  background-color:transparent;
+  font-size: 100%;
+}
+
+/* Specificity: 0, 1, 0 */
+.highlight {
+  background-color: transparent;
+}
+
+/* Specificity: 0, 1, 0 */
+.warning {
+  font-weight: 500; /* Equivalent to “bold” */
+  color: white;
+}
+
+/* Specificity: 0, 2, 0 */
+.highlight.warning {
+  border: 300px solid transparent;
+}
+
+/* Specificity: 0, 2, 2 */
+body span.highlight.warning {
+  font-size: 400%;
+}
+h1,
+p {
+  text-align: center;
+}
+body {
+
+  background-image: url('../img/18401410663_84b8ac7db9_k.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 125%;
+  font-weight: 300;
+  color: #FFFFFF;
+}
+h1 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-weight: normal;
+  color: #FFFFFF
+}
