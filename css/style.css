@@ -15,5 +15,6 @@ h1 {
 body {
    font-size: 18px;
    font-family: 'Pangolin', cursive;
+   line-height: 1.5;
 }
    color: rgb(255, 242, 242);
