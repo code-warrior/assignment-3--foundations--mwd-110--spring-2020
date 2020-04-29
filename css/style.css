@@ -25,6 +25,15 @@ img {
    max-height: 10%;
 }
 
+a {
+   color: rgba(255, 255, 255);
+}
+
+a:hover {
+   color: #ff5733;
+   transition: 275ms;
+}
+
 .review-content {
    position: relative;
    right: 12px;
@@ -69,10 +78,6 @@ img {
    position: relative;
    left: 20px;
    background: transparent url('../img/hero-two.jpg') fixed no-repeat 0 0 / cover;
-}
-
-a {
-   color: rgba(255, 255, 255);
 }
 
 #name-of-artist {
