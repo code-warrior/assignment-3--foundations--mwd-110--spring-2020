@@ -12,3 +12,7 @@ border: 2px dashed yellow;
 }
 i {font-style: italic;}
 b{font-style: bold}
+#musichas {
+  color: red;
+  text-align: center;
+}
