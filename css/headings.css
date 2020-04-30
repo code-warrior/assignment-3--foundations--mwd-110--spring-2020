@@ -9,4 +9,6 @@ h1 {
 h2 {
   font-size: var(--font-size--level-2-heading);
   font-weight: 400;
+  margin-top: var(--margin);
+  margin-bottom: var(--margin);
 }
