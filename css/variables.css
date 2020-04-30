@@ -6,5 +6,4 @@
   --font-size--level-2-heading: 1.0rem;
   --width-image: 1800px;
   --width--primary-image: 200px;
-  --width-body: calc(4 * var(--width-image) + 30px);
 }
