@@ -1,3 +1,8 @@
+.container {
+   display: flex;
+   width: var(--width--primary-image);
+}
+
 body {
   font-family: var(--typeface--reading);
   margin: auto;
@@ -11,6 +16,10 @@ main {
 
 div {
    width: var(--width-image);
+}
+
+div>img {
+   width: 100%;
 }
 
 section {
