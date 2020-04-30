@@ -1,5 +1,7 @@
 body {
   font-family: var(--typeface--reading);
+  margin: auto;
+  width: var(--width--body);
 }
 
 main {
