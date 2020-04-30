@@ -22,9 +22,8 @@ div>img {
   width: 100%;
 }
 
-section>img {
-  display: flex;
-  justify-content: center;
+img {
+  text-align: center;
 }
 
 p {
