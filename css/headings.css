@@ -1,6 +1,7 @@
 h1 {
   font-family: var(--typeface--level-1-heading);
   font-size: var(--font-size--level-1-heading);
+  text-align: center;
 }
 
 h2 {
