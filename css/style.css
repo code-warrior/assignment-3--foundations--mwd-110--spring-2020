@@ -1,0 +1,101 @@
+body {
+  background-image: linear-gradient(to bottom, rgb(191, 234, 249), rgb(250, 246, 217), rgb(250, 246, 217));
+}
+
+header {
+background: url('../img/picture-b.JPG');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+width: auto;
+margin: auto;
+padding: 150px;
+}
+p {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+h1 {
+  background-color: inherit;
+  color: rgba(255, 255, 255);
+  font-family: 'Francois One', sans-serif;
+  font-size: 78px;
+  text-shadow: blue 2px 2px;
+  text-align: center;
+}
+
+#artist {
+  background-color: rgba(52, 129, 177, .5);
+  color: white;
+  padding: 10px;
+  font-family:'Francois One', sans-serif;
+  font-size: 45px;
+  text-align: center;
+  text-shadow: blue 2px 2px;
+}
+ol {
+  background-color: rgba(255, 255, 255, .4);
+  color: black;
+  padding: 20px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  text-align: left;
+  line-height: 25px;
+}
+#album {
+  background-color: rgba(255, 255, 255, .3);
+  color: inherit;
+  margin-top: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+img {
+  padding: 50px;
+}
+#quote {
+  background: url('../img/picture-a.JPG') scroll 0 0/ cover;
+  background-color: inherit;
+  padding: 75px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+  text-align: center;
+  text-shadow: black 2px 2px;
+  font-size: 30px;
+  color: white;
+}
+.article:nth-of-type(2) > .article--mask {
+  background-color: inherit;
+  color: black;
+  margin-top: 30px;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-bottom: 30px;
+}
+.article:nth-of-type(3) > .article--mask {
+  margin-left: 70px;
+  margin-right: 70px;
+  padding: 30px;
+  background-color: inherit;
+  color: black;
+}
+.article:nth-of-type(4) {
+  background: url('../img/picture-c.JPG') fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+.article:nth-of-type(4) > .article--mask {
+    margin-left: 70px;
+    margin-right: 70px;
+    padding: 30px;
+    background-color: rgba(250, 246, 217, .75);
+    color: black;
+}
+a {
+  background-color: inherit;
+  color: orange;
+}
