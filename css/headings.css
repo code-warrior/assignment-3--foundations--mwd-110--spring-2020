@@ -1,0 +1,16 @@
+h1 {
+  font-family: var(--typeface--level-1-heading);
+  font-size: var(--font-size--level-1-heading);
+  text-align: center;
+  margin-top: var(--margin);
+  margin-bottom: var(--margin);
+}
+
+h2 {
+  font-size: var(--font-size--level-2-heading);
+  font-weight: 400;
+  text-decoration: underline;
+  text-align: center;
+  margin-top: var(--margin);
+  margin-bottom: var(--margin);
+}

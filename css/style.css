@@ -1,0 +1,26 @@
+body {
+  font-family: var(--typeface--reading);
+  margin: auto;
+  width: var(--width--body);
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  width: var(--width-image);
+}
+
+div>img {
+  width: 100%;
+}
+
+section>img {
+   width: 100%
+}
+
+p {
+  padding: 20px;
+}
