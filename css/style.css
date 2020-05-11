@@ -1,0 +1,87 @@
+body {
+  color: red;
+  background-color: lightgray;
+  font-size: 1.3rem;
+  font-family: 'Changa', sans-serif;
+  padding: 20px;
+  position: relative;
+}
+main{
+  display: flex;
+  flex-wrap: wrap;
+}
+#album{
+  display: block;
+  margin-left: auto;
+  padding: 30px;
+  height: 500px;
+  width: 500px;
+}
+h1{
+  color: black;
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 10px;
+  background-color: green;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+#songs{
+  background-color: lightgray;
+  color: green;
+  line-height: 1.4;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+a:link {
+  background-color: lightgray;
+  color: green;
+  text-align: left;
+  text-indent: 50px;
+}
+
+a:visited {
+  background-color: lightgray;
+  color: darkgreen;
+}
+
+a:hover {
+  background-color: lightgray;
+  color: rgb(245, 227, 66);
+}
+a:active{
+  background-color: lightgray;
+  color: black;
+}
+h2{
+  color: red;
+  background-color: lightgray;
+  font-size: 1.7rem;
+  padding-top: 10px;
+}
+p{
+  padding: 10px;
+  line-height: 1.3;
+  font-family: 'Allerta Stencil', sans-serif;
+}
+#img-2{
+  display: block;
+  padding: 8px;
+  width: 500px;
+  float: right;
+  margin: 10px;
+}
+#img-3{
+  display: block;
+  padding: 8px;
+  width: 500px;
+  float: left;
+  margin: 10px;
+}
+#img-4{
+  display: block;
+  padding: 8px;
+  width: 500px;
+  float: left;
+  margin: 10px;
+}
