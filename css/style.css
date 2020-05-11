@@ -1,0 +1,99 @@
+header {
+text-align: center;
+height: 150px;
+background-color: #505050;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+div1 {
+  text-align: left;
+  font-size: 134%;
+  position: absolute;
+  top: 210px;
+  left: 33%;
+  right: 0;
+  width: 750px;
+  height: 753px;
+  border: 5px solid #808080;
+  background-color: #505050;
+}
+
+div2 {
+  text-align: center;
+  font-size: 120%;
+  position: absolute;
+  top: 175px;
+  left: 20%;
+  right: 0;
+  width: 222px;
+  border: 5px solid #808080;
+  background-color: #505050;
+}
+
+div3 {
+  text-align: center;
+  font-size: 120%;
+  position: absolute;
+  top: 175px;
+  left: 33%;
+  right: 0;
+  width: 750px;
+  border: 5px solid #808080;
+  background-color: #505050;
+}
+
+div4 {
+  position: absolute;
+  top: 450px;
+  left: 20%;
+  right: 0;
+  width: 222px;
+  border: 5px solid #808080;
+  background-color: #505050;
+}
+
+div5 {
+  position: absolute;
+  top: 210px;
+  left: 20%;
+  right: 0;
+}
+
+div6 {
+  position: absolute;
+  top: 175px;
+  left: 2%;
+  right: 0;
+  width: 290px;
+  height: 800px;
+  background-color: white;
+  color: black;
+}
+
+div7 {
+  position: absolute;
+  top: 175px;
+  left: 75%;
+  width: 290px;
+  height: 800px;
+  background-color: #808080;
+}
+
+img {
+  border: 5px solid #808080;
+
+}
+
+footer {
+  position: absolute;
+  text-align: center;
+  top: 1005px;
+  left: 20%;
+  height: 75px;
+  width: 1010px;
+  background-color: #505050;
+}
