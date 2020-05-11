@@ -1,0 +1,30 @@
+body{text-align:center;
+background-color: black;
+font-family: sans-serif;
+color: white;
+border: 2px dashed yellow;
+ border-radius: 20px; }
+ div {
+  padding-top: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  width: 320px;
+  border: 5px solid green;
+  margin: auto;
+}
+i {font-style: italic;}
+
+#musichas {
+  color:  red;
+  text-align: center;
+}
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 100px;
+}
+#tracklist {text-align:center;}
+header {  color: red;
+font-style: italic;}
