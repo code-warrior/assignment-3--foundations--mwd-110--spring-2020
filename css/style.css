@@ -1,0 +1,98 @@
+body {
+  background-color: #99999e;
+  color: #000;
+  margin: auto;
+  line-height: normal;
+}
+
+header {
+  position: fixed;
+  background-color: #272222;
+  font-family: Montserrat, sans-serif;
+  color: #eadbdb;
+  border: 5px inset #db6161;
+  text-align: center;
+  margin: auto;
+  width: 1510px;
+  height: 70px;
+  font-size: 50px;
+}
+
+img {
+  padding-top: 88px;
+  margin-left: 412px;
+}
+
+#flex {
+  display: flex;
+  flex-direction: column;
+}
+
+#members {
+  background-color: #d58989;
+  color: #000;
+  border: 8px inset #844a49;
+  margin: 12px;
+  width: 280px;
+  height: 160px;
+  align-self: center;
+}
+
+h2 {
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 8px;
+}
+
+h3 {
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+h4 {
+  font-family: Montserrat, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+ul {
+  font-family: Lato, sans-serif;
+  font-size: 20px;
+  padding-left: 80px;
+}
+
+main {
+  background-color: #d17c7c;
+  color: #000;
+  border: 10px outset #6a5555;
+  text-align: center;
+  margin: 15px 470px;
+  padding: 15px;
+}
+
+ol {
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  line-height: 135%;
+}
+
+p {
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+}
+
+section {
+  background-color: #d34444;
+  color: #000;
+  border: 8px inset #cd5e5e;
+  margin: 15px;
+}
+
+a {
+  background-color: inherit;
+  color: inherit;
+}
