@@ -1,0 +1,131 @@
+img { 
+   left: 325px; 
+   top: 70px; 
+   position: relative;
+   border-style: Solid; 
+   border-width: 8px; 
+}
+h1 {
+   position: relative;
+   left: 315px; 
+   text-align: center;
+   width: 650px;
+   border-left: dashed; 
+   border-right: dashed; 
+   border-bottom: solid; 
+   border-top: solid; 
+   border-width: 15px;
+   border-bottom-width: 6px;
+   border-top-width: 6px;
+   background-color: var(--secondary-color);
+   background-position: center;  
+   text-shadow: -1px 1px 4px ; 
+   font-family: 'Montserrat', sans-serif;
+   font-size: 29px; 
+   padding: 4px; 
+   font-weight: 900;
+}
+h2{
+   position: relative;
+   top: -315px; 
+   left: 250px; 
+   font-family: 'Montserrat', sans-serif;
+   font-size: 28px; 
+   width: 400px; 
+   border-left-style: solid; 
+   border-right-style: solid; 
+   border-width: 5px; 
+   border-radius: 5px; 
+   text-align: center;
+   }
+.Boldness {
+      font-weight: 700; 
+      text-align: left; 
+   }
+body {
+   background-image: linear-gradient( 115deg, var(--primary-color), var(--gradient-color)); 
+}
+ul {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 17px; 
+   position: relative;
+   left: 675px; 
+   top: -225px; 
+   list-style: none; 
+   background-color: var(--secondary-color);
+   background-position: center; 
+   padding: .5px; 
+   padding-top: 4px; 
+   padding-bottom: 4px; 
+   width: 325px;
+   border-radius: 10px; 
+   border-style: solid; 
+   border-color: black; 
+   line-height: 20px;
+   
+}
+li:nth-child(even) {
+   background-color: #CCC; 
+   border-radius: 6px;
+   padding: 2px; 
+   border-bottom-style: solid;
+   border-top-style: solid;
+   border-width: 2px;
+}
+main {
+   position: relative;
+   border-top-style: solid; 
+   border-bottom-style: solid; 
+   border-radius: 8px; 
+   border-width: 18px; 
+   top: -280px; 
+   background-color: var(--secondary-color);
+}
+p {
+   text-indent: 36px; 
+   font-family: 'Open Sans', sans-serif;
+   padding-left: 5px; 
+   width: 700px; 
+   line-height: normal;
+   font-size: 20px; 
+}
+div:nth-last-of-type(odd) {
+   position: relative; 
+   background-color: black; 
+   color: white; 
+   width: 750px; 
+   padding-top: 12px; 
+   padding-bottom: 12px; 
+   border-left-style: dashed; 
+   border-right-style: dashed; 
+   border-color: white; 
+   border-width: 15px; 
+   left: 265px; 
+} 
+div:nth-last-of-type(even) {
+   position: relative; 
+   width: 750px; 
+   border-left-style: dashed; 
+   border-right-style: dashed; 
+   border-color: black; 
+   border-width: 15px; 
+   padding-top: 12px; 
+   padding-bottom: 12px; 
+   left: 265px; 
+}
+h3 {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 28px; 
+   position: relative;
+   top: -200px; 
+}
+a {
+   text-decoration: none;
+   color: white; 
+} 
+a:hover {
+   color: yellow; 
+}
+a:visited {
+   color: red; 
+}
