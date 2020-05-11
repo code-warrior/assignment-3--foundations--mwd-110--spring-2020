@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&family=Nanum+Pen+Script&family=Rock+Salt&display=swap');
+
+span{
+   font-style: italic;
+}
+
+:root {
+   background-color: rgb(222, 164, 113);
+   background:
+      linear-gradient(to top, rgba(102, 89, 87, .9), rgba(191, 142, 105,.99)) no-repeat left, url('../img/static-noise.jpg');
+}
+
+h1 {
+   line-height: 1.3;
+   font-size: 65px;
+   font-family: 'Nanum Pen Script', cursive;
+   margin-top: 20px;
+}
+
+h2{
+   font-size: 20px;
+   font-family: 'Rock Salt', cursive;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+
+header{
+   color: rgb(48, 27, 24);
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   align-items: center;
+}
+
+body {
+   color: rgb(255, 242, 242);
+   font-size: 19px;
+   font-family: 'Pangolin', cursive;
+   line-height: 1.5;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin-left: 10%;
+   margin-right: 10%;
+}
+
+footer{
+   margin-top: 20px;
+   margin-bottom: 10px;
+   font-size: 16px;
+   align-self: flex-end;
+}
+
+p{
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+
+ol{
+   display: flex;
+   justify-content: center;
+   justify-content: space-around;
+}
+
+li{
+   color: rgb(176, 16, 16);
+}
+
+a {
+   color: rgb(255, 242, 242);
+}
