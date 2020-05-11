@@ -1,0 +1,56 @@
+body {
+   background-color: #f0ffff;
+   text-align: center;
+   margin-left: auto;
+   margin-right: auto;
+   width: 60%;
+}
+
+#ramones {
+   font-family: 'Anton', sans-serif;
+   font-size: 60px;
+   padding: 10px;
+}
+
+#albumcover {
+   border: 3px solid grey;
+}
+
+#bandmates {
+   font-family: 'Roboto', sans-serif;
+   font-size: 14px;
+   font-style: italic;
+   padding: 5px;
+}
+
+#tracklist {
+   font-family: 'Roboto', sans-serif;
+   font-size: 14px;
+   padding-bottom: 5px;
+}
+
+#writeup {
+   font-family: 'Roboto', sans-serif;
+   font-size: 18px;
+   font-weight: 400;
+}
+
+#credit {
+   font-family: 'Roboto', sans-serif;
+   font-size: 14px;
+   font-style: italic;
+   padding: 10px;
+   color: #708090;
+}
+
+p {
+   padding: 5px;
+}
+
+li {
+   padding: 2px;
+}
+
+span {
+   font-style: italic;
+}
